@@ -1,0 +1,28 @@
+name: Pablo Smith
+favicon: null
+layout_spectrum: 0.04819801216945052
+typography_spectrum: 0.6266871376428753
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.30905344639904797
+  lightness: 0.47305195149965584
+  saturation: 0.9044314080383629
+  rhythmicContrast: 0.5792728138621897
+purpose: []
