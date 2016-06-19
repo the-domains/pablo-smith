@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Backstage]]></title>
+        <description><![CDATA[Backstage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Jun 2016 10:25:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First off, welcome to my music industry blog thingy, Backstage. I'd like to use this short introductory post to do my best to explain what I'm doing here, what Backstage is about, and maybe some more. We'll see.</p>]]></description>
+            <link>undefinedfirst-off-welcome-to-my-music-industry-blog-thingy-backsta/index.html</link>
+            <guid isPermaLink="false">2677b626-44ab-4402-b457-0ec19f4cd56e</guid>
+            <pubDate>Sun, 19 Jun 2016 10:25:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
